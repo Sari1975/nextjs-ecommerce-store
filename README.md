@@ -1,8 +1,9 @@
 # nextjs-ecommerce-store
 
 
-A products page
-A page for each single product (when you click on the product it goes to this page)
+Create a products page
+
+A page for each single product (when you click on the product it goes to its specific page)
 A shopping cart page (containing a list where products appear when you click on the "Add to cart" button on the single product page), which also shows the total price of all products
 A checkout page / multi-page process which shows the total and asks for shipping and payment information (when you click on "Go to Checkout" on the shopping cart page it goes here)
 A thank you page after a checkout has been completed
