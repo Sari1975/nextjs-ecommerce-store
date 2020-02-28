@@ -4,14 +4,20 @@
 Create a products page
 
 A page for each single product (when you click on the product it goes to its specific page)
+
 A shopping cart page (containing a list where products appear when you click on the "Add to cart" button on the single product page), which also shows the total price of all products
+
 A checkout page / multi-page process which shows the total and asks for shipping and payment information (when you click on "Go to Checkout" on the shopping cart page it goes here)
+
 A thank you page after a checkout has been completed
 The header will show a shopping cart with the current number of items on all pages
 Additionally, during this project we will use Next.js for:
 
 Switching between different URLs ("Routing")
+
 Server-Side Rendering (for performance / SEO)
+
+
 GENERAL TODOS
  pick/decide the brand/line of products/services you want to advertize/commercialize/sell
  decide the name of the brand/line of products/services as well as the name of the[ domain]
